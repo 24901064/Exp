@@ -1,31 +1,37 @@
-ATM and Banking SYSTEM
-NAME : BHARANI KUMAR.S
-REG NO: 212224230035
-AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+# Exp-1 ATM & BANKING SYSTEM
+# AIM:
+To draw the UML diagram for ATM And BANKING System.
+# SRS (Procedure):
+create UML diagrams for ATM and BANKING SYSTEM:
 
-PROBLEM STATEMENT:
-To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
-
-STEPS:
-Download Star UML.
-
-Select Add model and select the model which you are going to draw.
-
-Draw the diagram.
-
-Save the diagram successfully.
-
-Execute it.
-
+1. UseCase
+2. Class
+3. Activity
+4. Sequence
+5. Communication
+6. Package
 
 # DIAGRAMS:
-<img width="1233" height="937" alt="image" src="https://github.com/user-attachments/assets/bca956f0-b16a-4504-a809-d50c9a83dd7a" />
-<img width="1131" height="912" alt="image" src="https://github.com/user-attachments/assets/6cf50108-91df-4aad-8a65-2f5d0790c89d" />
-<img width="1235" height="817" alt="image" src="https://github.com/user-attachments/assets/71693e37-6e47-4004-aa77-4dd60c68742c" />
-<img width="1232" height="881" alt="image" src="https://github.com/user-attachments/assets/f8615df0-7ac2-4676-bf03-30634a360a68" />
-<img width="1170" height="927" alt="image" src="https://github.com/user-attachments/assets/477c5c7f-1c36-492d-a8eb-21149950d274" />
+(upload all 6 diagrams)
 
+1. UseCase
+<img width="958" height="842" alt="Screenshot 2026-08-30 120542" src="https://github.com/user-attachments/assets/eb50fdce-8b39-4953-8c92-10f0826a0abe" />
 
+2. Class
+<img width="666" height="541" alt="Screenshot 2026-08-30 120618" src="https://github.com/user-attachments/assets/98763e8c-e277-4cd5-aaef-9bc96d4cd3a1" />
+
+3. Activity
+<img width="1097" height="850" alt="Screenshot 2026-08-30 120755" src="https://github.com/user-attachments/assets/dfd0b3b4-26d4-4843-95b4-df5b7a8fd326" />
+
+4. Sequence
+<img width="893" height="762" alt="Screenshot 2026-08-30 120714" src="https://github.com/user-attachments/assets/abca53d1-3b43-49af-a236-af2c530f7393" />
+
+5. Communication
+<img width="852" height="745" alt="Screenshot 2026-08-30 120909" src="https://github.com/user-attachments/assets/e60fa8e6-003e-442a-9ba6-ba041996365b" />
+
+6. Package
+<img width="705" height="532" alt="Screenshot 2026-08-30 120956" src="https://github.com/user-attachments/assets/2c16c20a-4ded-4787-95a6-e397367db180" />
 
 # RESULT:
+
+Successfully created UML diagrams for ATM and BANKING SYSTEMS.
