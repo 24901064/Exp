@@ -1,8 +1,23 @@
-# Exp-1 ATM & BANKING SYSTEM
+ATM and Banking SYSTEM
+NAME : BHARANI KUMAR.S
+REG NO: 212224230035
+AIM:
+To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
 
-# AIM:
+PROBLEM STATEMENT:
+To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
 
-# SRS (Procedure):
+STEPS:
+Download Star UML.
+
+Select Add model and select the model which you are going to draw.
+
+Draw the diagram.
+
+Save the diagram successfully.
+
+Execute it.
+
 
 # DIAGRAMS:
 <img width="1233" height="937" alt="image" src="https://github.com/user-attachments/assets/bca956f0-b16a-4504-a809-d50c9a83dd7a" />
